@@ -3,3 +3,4 @@ Mahir CSS
 Profesional PHP
 menguasai framework laravel
 mahir database mysql
+profesional javascript
