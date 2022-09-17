@@ -9,3 +9,4 @@ Rencana Belajar CSS
   * Harus Konsisten setiap hari
   * jangan menyerah
   * tetap semangat
+- CSS FLEX BOX
