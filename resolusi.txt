@@ -1,5 +1,5 @@
 Menguasai HTML
 Mahir CSS
 Profesional PHP
-bisa javascript
+menguasai framework laravel
 mahir database mysql
