@@ -1,2 +1,3 @@
 # Resolusi
-Resolusi Tahun 2022
+Ini adalah Plaining Tahun 2022
+semoga menjadi motivasi untuk diriku dan sesalu ingin berkembang
