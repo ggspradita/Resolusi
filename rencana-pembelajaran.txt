@@ -1,4 +1,6 @@
 Rencana Belajar CSS
 - CSS Dasar
+  * minimal meluangkan waktu 2 jam dalam sehari
+  * Harus Konsisten setiap hari
 - CSS MODEL
 - CSS GRID
