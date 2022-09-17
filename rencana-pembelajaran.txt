@@ -6,3 +6,6 @@ Rencana Belajar CSS
   * minimal meluangkan waktu 2 jam dalam sehari
   * Harus Konsisten setiap hari
 - CSS GRID
+- CSS Flex Box
+  * Setiap hari harus konsisten
+  * selalu ingin berkembang
