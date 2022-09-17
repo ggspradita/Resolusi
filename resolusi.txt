@@ -4,3 +4,4 @@ Profesional PHP
 menguasai framework laravel
 mahir database mysql
 profesional javascript
+menguasai framework next js/ vue
